@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Information educational portal</string>
+
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="authorization">Authorization</string>
+</resources>
